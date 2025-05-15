@@ -1,0 +1,6 @@
+
+Course Objectives:
+1)It will introduce students to the enterprise application development environment and provides the knowledge about most recent developments in enterprise application frameworks.
+2)Students will have better understanding of software architecture and various design principles.
+3)Students will have the understanding of good coding practices, including documentation, testing and builds.
+4)Students will learn about the web application security vulnerabilities and how to solve those security issues.
